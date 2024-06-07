@@ -1,7 +1,8 @@
 # 42
 Links para todos os repositórios de projetos da 42
-<br></br>
 
+[(Read this page in english)](https://github.com/jou-code/42/README-EN.md)
+<br></br>
 ## #rank0
 
 [![libft bonus](https://github.com/jou-code/jou-code/assets/145489056/8e4e8578-c531-4651-ba9e-42b2782ffa1e)](https://github.com/jou-code/libft)
