@@ -1,9 +1,13 @@
-# 42
-Links para todos os repositórios de projetos da 42
+<h1 align="center">
+ 42
+</h1>
+<p align="center">Links para todos os repositórios de projetos da 42</p>
 
 [(Read this page in english)](https://github.com/jou-code/42/blob/main/README_EN.md)
 <br></br>
-## #rank0
+<h2 align="center">
+ #rank0
+</h2>
 
 [![libft bonus](https://github.com/jou-code/jou-code/assets/145489056/8e4e8578-c531-4651-ba9e-42b2782ffa1e)](https://github.com/jou-code/libft)
 
@@ -11,7 +15,9 @@ Biblioteca com minhas versões de algumas funções da glibc + úteis para o cur
 <br></br>
 <br></br>
 
-## #rank1
+<h2 align="center">
+ #rank1
+</h2>
 
 [![get_next_line_bonus](https://github.com/jou-code/jou-code/assets/145489056/10f39184-8845-4f66-90a3-dcefd8a350e6)](https://github.com/jou-code/get_next_line)
 
@@ -27,7 +33,9 @@ Configurando uma máquina virtual
 <br></br>
 <br></br>
 
-## #rank2
+<h2 align="center">
+ #rank2
+</h2>
 
 [![fdf](https://github.com/jou-code/42-project-badges/blob/main/badges/fdfe.png)](https://github.com/jou-code/fdf)
 
@@ -43,7 +51,9 @@ Implementação de algorítmo de ordenação com recursos limitados
 <br></br>
 <br></br>
 
-## #rank3 - Atual
+<h2 align="center">
+ #rank3 - Atual
+</h2>
 <br></br>
 🚧 Construindo um mini shell - em dupla! 🚧
 <br></br>
