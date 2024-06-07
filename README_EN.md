@@ -1,7 +1,7 @@
 # 42
 Links to all my 42 projects' repos
 
-[(Leia em português)](https://github.com/jou-code/42/README.md)
+[(Leia em português)](https://github.com/jou-code/42)
 <br></br>
 ## #rank0
 
