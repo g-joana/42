@@ -1,11 +1,13 @@
 # 42
 Links para todos os repositórios de projetos da 42
+<br></br>
 
 ## #rank0
 
 [![libft bonus](https://github.com/jou-code/jou-code/assets/145489056/8e4e8578-c531-4651-ba9e-42b2782ffa1e)](https://github.com/jou-code/libft)
 
 Biblioteca com minhas versões de algumas funções da glibc + úteis para o curso da 42
+<br></br>
 <br></br>
 
 ## #rank1
@@ -22,6 +24,7 @@ Minha versão (reduzida) da printf
 
 Configurando uma máquina virtual
 <br></br>
+<br></br>
 
 ## #rank2
 
@@ -37,7 +40,9 @@ Troca simples de informação usando sinais UNIX
 
 Implementação de algorítmo de ordenação com recursos limitados
 <br></br>
+<br></br>
 
 ## #rank3 - Atual
-
+<br></br>
 🚧 Construindo um mini shell - em dupla! 🚧
+<br></br>
