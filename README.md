@@ -1,7 +1,7 @@
 # 42
 Links para todos os repositórios de projetos da 42
 
-[(Read this page in english)](https://github.com/jou-code/42/README-EN.md)
+[(Read this page in english)](https://github.com/jou-code/42/blob/main/README_EN.md)
 <br></br>
 ## #rank0
 
