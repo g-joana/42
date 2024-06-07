@@ -1,7 +1,7 @@
 <h1 align="center">
  42
 </h1>
-<p align="center">Links para todos os repositórios de projetos da 42</p>
+<p align="center">Links para todos os meus repositórios de projetos da 42</p>
 
 [(Read this page in english)](https://github.com/jou-code/42/blob/main/README_EN.md)
 <br></br>
@@ -55,5 +55,5 @@ Implementação de algorítmo de ordenação com recursos limitados
  #rank3 - Atual
 </h2>
 <br></br>
-🚧 Construindo um mini shell - em dupla! 🚧
+<p align="center" > 🚧 Construindo um mini shell - em dupla! 🚧 </p>
 <br></br>
