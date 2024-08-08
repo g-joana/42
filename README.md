@@ -19,7 +19,7 @@ Função que lê um arquivo linha por linha
 
 [![ft_printf](https://github.com/jou-code/jou-code/assets/145489056/0b9eab9a-6a36-4985-b61b-c3d223b2fc4d)](https://github.com/jou-code/ft_printf)
 
-Minha versão (reduzida) da printf
+Minha versão da printf (reduzida)
 
 [![born2beroot](https://github.com/jou-code/jou-code/assets/145489056/f89f0e48-6e0a-411b-b1a6-b0748b7eb01c)](https://github.com/jou-code/born2beroot)
 
